@@ -4,7 +4,7 @@ Simple command bus for laravel. Use jms serializer for build command.
 
 ### Install
 
-`composer require janmuran/laravel-command-bus`
+`composer require Brokeria-a-s/laravel-command-bus`
 
 ## Example
 
